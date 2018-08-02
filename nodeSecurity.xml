@@ -924,6 +924,13 @@
             </list>
           </value>
         </entry>
+        <entry key="express-cart">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="express-restify-mongoose">
           <value>
             <list>
